@@ -1,3 +1,5 @@
+In this project I used unsupervised learning to create customer segments.  Following are instructions from Udacity regarding this project.
+
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
